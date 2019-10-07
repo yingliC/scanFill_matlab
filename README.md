@@ -23,7 +23,7 @@
    (即求出扫描线与多边形的交点、对交点数组进行排序)
    
 #### 二、对于求扫描线与多边形的交点，考虑一下几个特殊情况：
-   1. 扫描线与边重合：直接重画这条线
+   1. 扫描线与边重合：直接重画这条线  
    ![扫描线与边重合](https://github.com/yingliC/Images/blob/master/sanFill_images/扫描线与边重合.jpeg)
    
    2. 扫描线与边的交点为顶点   
@@ -32,14 +32,14 @@
 * 顶点为局部极值：交点被连续记录两次  
 
     ![顶点为极值点](https://github.com/yingliC/Images/blob/master/sanFill_images/顶点为极值点.jpeg)
-* 顶点不是局部极值：交点只被记录一次
+* 顶点不是局部极值：交点只被记录一次  
 
     ![顶点为非极值点](https://github.com/yingliC/Images/blob/master/sanFill_images/顶点为非极值点.jpeg)
      
  ---
  ## 运行结果
 
- ![提示](https://github.com/yingliC/Images/blob/master/sanFill_images/结果提示.png)
+ ![提示](https://github.com/yingliC/Images/blob/master/sanFill_images/结果提示.png){:width="407px"}
  
  ![扫描](https://github.com/yingliC/Images/blob/master/sanFill_images/结果扫描.png)
  

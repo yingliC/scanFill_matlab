@@ -24,7 +24,7 @@
    
 #### 二、对于求扫描线与多边形的交点，考虑一下几个特殊情况：
    1. 扫描线与边重合：直接重画这条线
-   ![扫描线与边重合](/Users/caoyingli/Pictures/MacDown_Images/扫描线与边重合.jpeg)
+   ![扫描线与边重合](https://github.com/yingliC/Images/blob/master/sanFill_images/扫描线与边重合.jpeg)
    
    2. 扫描线与边的交点为顶点   
    ![扫描线与边的交点为顶点](/Users/caoyingli/Pictures/MacDown_Images/扫描线与边的的交点为顶点.jpeg)  

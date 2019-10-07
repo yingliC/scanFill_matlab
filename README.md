@@ -39,7 +39,7 @@
  ---
  ## 运行结果
 
- ![提示](https://github.com/yingliC/Images/blob/master/sanFill_images/结果提示.png){:width="407px"}
+ <img src="https://github.com/yingliC/Images/blob/master/sanFill_images/结果提示.png" width = "420" height = "341">
  
- ![扫描](https://github.com/yingliC/Images/blob/master/sanFill_images/结果扫描.png)
+ <img src="https://github.com/yingliC/Images/blob/master/sanFill_images/结果扫描.png" width ="407" height="331">
  

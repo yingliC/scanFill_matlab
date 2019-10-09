@@ -29,17 +29,21 @@
    2. 扫描线与边的交点为顶点   
    ![扫描线与边的交点为顶点](https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/扫描线与边的交点为顶点.jpeg)  
    （通过与顶点关联的两条边的另外两个顶点是不是在交点同一侧来判断一个顶点是否为极值点）  
-* 顶点为局部极值：交点被连续记录两次  
+ * 顶点为局部极值：交点被连续记录两次  
 
     ![顶点为极值点](https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/顶点为极值点.jpeg)
-* 顶点不是局部极值：交点只被记录一次  
+ * 顶点不是局部极值：交点只被记录一次  
 
     ![顶点为非极值点](https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/顶点为非极值点.jpeg)
      
  ---
- ## 运行结果
+## 运行结果
 
  <img src="https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/结果提示.png" width = "420" height = "341">
  
  <img src="https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/结果扫描.png" width ="407" height="331">
+
+
+
+###### 注：本思路与介绍图片均来自CSDN上博主[IndeReBoom](https://blog.csdn.net/qq_27161673/article/details/52973725)的《扫描线填充多边形算法详解与代码》一文，这里将代码改为了matlab实现。
  

@@ -43,7 +43,7 @@
  
  <img src="https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/结果扫描.png" width ="407" height="331">
 
-
+---
 
 ###### 注：本思路与介绍图片均来自CSDN上博主[IndeReBoom](https://blog.csdn.net/qq_27161673/article/details/52973725)的《扫描线填充多边形算法详解与代码》一文，这里将代码改为了matlab实现。
  

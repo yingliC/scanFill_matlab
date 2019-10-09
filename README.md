@@ -27,7 +27,7 @@
    ![扫描线与边重合](https://github.com/yingliC/Images/blob/master/sanFill_images/扫描线与边重合.jpeg)
    
    2. 扫描线与边的交点为顶点   
-   ![扫描线与边的交点为顶点](https://github.com/yingliC/Images/blob/master/sanFill_images/扫描线与边的交点为顶点.jpeg)  
+   ![扫描线与边的交点为顶点](https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/扫描线与边的交点为顶点.jpeg)  
    （通过与顶点关联的两条边的另外两个顶点是不是在交点同一侧来判断一个顶点是否为极值点）  
 * 顶点为局部极值：交点被连续记录两次  
 

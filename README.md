@@ -24,22 +24,22 @@
    
 #### 二、对于求扫描线与多边形的交点，考虑一下几个特殊情况：
    1. 扫描线与边重合：直接重画这条线  
-   ![扫描线与边重合](https://github.com/yingliC/Images/blob/master/sanFill_images/扫描线与边重合.jpeg)
-   
+   ![扫描线与边重合](https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/扫描线与边重合.jpeg)
+
    2. 扫描线与边的交点为顶点   
-   ![扫描线与边的交点为顶点](https://github.com/yingliC/Images/blob/master/sanFill_images/扫描线与边的交点为顶点.jpeg)  
+   ![扫描线与边的交点为顶点](https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/扫描线与边的交点为顶点.jpeg)  
    （通过与顶点关联的两条边的另外两个顶点是不是在交点同一侧来判断一个顶点是否为极值点）  
 * 顶点为局部极值：交点被连续记录两次  
 
-    ![顶点为极值点](https://github.com/yingliC/Images/blob/master/sanFill_images/顶点为极值点.jpeg)
+    ![顶点为极值点](https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/顶点为极值点.jpeg)
 * 顶点不是局部极值：交点只被记录一次  
 
-    ![顶点为非极值点](https://github.com/yingliC/Images/blob/master/sanFill_images/顶点为非极值点.jpeg)
+    ![顶点为非极值点](https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/顶点为非极值点.jpeg)
      
  ---
  ## 运行结果
 
- <img src="https://github.com/yingliC/Images/blob/master/sanFill_images/结果提示.png" width = "420" height = "341">
+ <img src="https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/结果提示.png" width = "420" height = "341">
  
- <img src="https://github.com/yingliC/Images/blob/master/sanFill_images/结果扫描.png" width ="407" height="331">
+ <img src="https://raw.githubusercontent.com/yingliC/scanFill_matlab/rdmImg/README_Images/结果扫描.png" width ="407" height="331">
  
